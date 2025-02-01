@@ -1,6 +1,6 @@
 {
-    "version": "1.0.3",
-    "changelog": "- Se ha modificado el HTML para eliminar Logo default. \n- Se ha modificado el archivo de la version.",
+    "version": "1.0.4",
+    "changelog": "Añadido el comando /clearnotify para eliminar las notificaciones en cola.",
     "name": "Reaver Dev",
     "discord": "reaver_rp",
     "discord_url": "https://discord.gg/Kx3Pbmx8Ae"
